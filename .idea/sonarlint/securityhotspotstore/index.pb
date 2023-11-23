@@ -32,3 +32,5 @@ L
 Q.idea/sonarlint/securityhotspotstore/a/5/a55d01fbb60ac0f13ae514f1db2f98d8729ff2c0,8\1\8151241b78111ac1d232108345a235ff14be1ada
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+\
+,src/main/java/sum/calculator/Calculator.java,3\8\3884e5e81df44c13efbf8a951114f385771bae03
