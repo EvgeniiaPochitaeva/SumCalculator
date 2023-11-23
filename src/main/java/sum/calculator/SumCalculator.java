@@ -3,7 +3,8 @@ package sum.calculator;
 import java.util.Scanner;
 
 public class SumCalculator {
-    public static void main(String[] args) {
+
+    public static void scanData() {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         System.out.println(sum(n));
